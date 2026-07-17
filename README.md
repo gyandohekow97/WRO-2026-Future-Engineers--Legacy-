@@ -1,4 +1,4 @@
-# WRO Future Engineers - Team [Your Team Name]
+# WRO Future Engineers - Team LEGACY
 
 Welcome to our official engineering repository for the World Robot Olympiad (WRO) Future Engineers category. This repository contains the complete open-source software architecture, hardware designs, and documentation for our fully autonomous robotic vehicle.
 
